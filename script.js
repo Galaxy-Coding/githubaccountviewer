@@ -58,5 +58,5 @@ function validate(name, fill) {
 	final = final + fill;
   }
 }
-
+alert('TEST')
 var final;
