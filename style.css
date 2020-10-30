@@ -1,0 +1,24 @@
+/* Created by Galaxy-Coding */
+
+img {
+  padding: 1em;
+  margin: auto;
+  width: 90%;
+  max-width: 100mm;
+  display: block;
+}
+
+* {
+  overflow: auto;
+}
+
+img:hover {
+  animation: rubberBand;
+  animation-duration: 2s;
+}
+.svg-loader{
+	  height: 30vmin;
+}
+.warning {
+	color: red;
+}
